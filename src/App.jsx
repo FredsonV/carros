@@ -12,12 +12,14 @@ export default function App() {
           <p>Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem.</p>  
           <a href="https://www.webmotors.com.br/sedans" target="_blank">Ver mais</a>    
         </div>
+
         <div>
           <img src={iconSuvs} alt="Ícone dos carros SUV" />
           <h2>SUVs</h2>
           <p>Escolha um SUV pelo seu interior espaçoso, poder e versatilidade. Perfeito para passar as férias em família ou para aventuras off-road.</p>
           <a href="https://www.webmotors.com.br/suvs" target="_blank">Ver mais</a>
         </div>
+
         <div>
           <img src={iconLuxury} alt="Ícone dos carros de Luxo" />
           <h2>Luxuosos</h2>
